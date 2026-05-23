@@ -1,8 +1,3 @@
-# Simple Python To-Do App
-
-Replace the contents of your `todo.py` file with this code:
-
-```python
 # Simple To-Do List App
 
 tasks = []
@@ -49,24 +44,3 @@ while True:
 
     else:
         print("Invalid choice. Please try again.")
-```
-
-## How to Run
-
-Open PowerShell inside your project folder and run:
-
-```powershell
-python todo.py
-```
-
-## After Editing the File
-
-Push the updated app to GitHub:
-
-```powershell
-git add .
-git commit -m "Added Python todo app"
-git push
-```
-
-After pushing, refresh your GitHub repository page and the updated code will appear online.
